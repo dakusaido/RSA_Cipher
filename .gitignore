@@ -1,0 +1,17 @@
+.idea/
+.venv/
+__pycache__/
+
+config/personKey/personKey.env
+config/projectPath/projectPath.env
+config/PythonInterpreterPath/pythonInterpPath.env
+
+config/projectPath/__pycache__/
+Patterns/__pycache__/
+utils/DataBase/__pycache__/
+utils/Exceptions/__pycache__/
+utils/File/__pycache__/
+utils/RSA/__pycache__/
+utils/sql_commands/__pycache__/
+utils/Thread/__pycache__/
+windows/__pycache__/

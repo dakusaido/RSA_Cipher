@@ -2,10 +2,6 @@
 .venv/
 __pycache__/
 
-config/personKey/personKey.env
-config/projectPath/projectPath.env
-config/PythonInterpreterPath/pythonInterpPath.env
-
 config/projectPath/__pycache__/
 Patterns/__pycache__/
 utils/DataBase/__pycache__/

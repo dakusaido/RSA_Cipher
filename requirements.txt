@@ -2,3 +2,4 @@ pycryptodome==3.16.0
 PyQt5==5.15.6
 SQLAlchemy==1.4.45
 environs~=9.5.0
+qtwidgets==1.1

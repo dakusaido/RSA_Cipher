@@ -4,15 +4,18 @@ import inspect
 
 from PyQt5 import QtWidgets
 
+from utils.DataBase.DataBase import create_base
+
 # Windows
-from windows.MainWindow import MainWindow
+from windows.AuthWindow import AuthWindow
 
 
 def main():
     app = QtWidgets.QApplication(sys.argv)
 
     # Windows Initialization
-    main_window = MainWindow()
+    main_window = AuthWindow()
+    create_base()
 
     main_window.show()
 
